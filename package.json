@@ -1,0 +1,30 @@
+{
+  "name": "pigeon-phoenix",
+  "version": "1.0.0",
+  "description": "google vision api demo",
+  "main": "client/app.html",
+  "dependencies": {
+    "bower": "^1.7.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hqro/SFEIR-Project-Google-Vision-API-.git"
+  },
+  "keywords": [
+    "api",
+    "google",
+    "cloud",
+    "app",
+    "engine"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hqro/SFEIR-Project-Google-Vision-API-/issues"
+  },
+  "homepage": "https://github.com/hqro/SFEIR-Project-Google-Vision-API-#readme"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Pigeon Phoenix",
+  "homepage": "https://github.com/hqro/SFEIR-Project-Google-Vision-API-",
+  "authors": [
+    "hqro <glarivie@student.42.fr>"
+  ],
+  "description": "Google Vision API demo",
+  "main": "client/app.html",
+  "moduleType": [],
+  "keywords": [
+    "google",
+    "cloud",
+    "app",
+    "engine"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.3"
+  }
+}
