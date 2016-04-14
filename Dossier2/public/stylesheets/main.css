@@ -1,0 +1,16 @@
+.container {
+	margin-top: 4%;
+}
+
+.bouton {
+	margin-bottom: 1%;
+}
+
+#webcam img {
+	max-width: 100%;
+	border: 1px solid #333;
+}
+
+ul#labels > li.result {
+	list-style: none;
+}

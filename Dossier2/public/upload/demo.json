@@ -1,0 +1,31 @@
+[
+  {
+    "labelAnnotations": [
+      {
+        "description": "digital camera",
+        "mid": "/m/0dw7n",
+        "score": 0.98640388
+      },
+      {
+        "description": "camera",
+        "mid": "/m/0dv5r",
+        "score": 0.97015327
+      },
+      {
+        "description": "image",
+        "mid": "/m/0jg24",
+        "score": 0.89089781
+      },
+      {
+        "description": "product",
+        "mid": "/m/01jwgf",
+        "score": 0.74885648
+      },
+      {
+        "description": "cameras \u0026 optics",
+        "mid": "/m/0ggjh_8",
+        "score": 0.72202116
+      }
+    ]
+  }
+]
